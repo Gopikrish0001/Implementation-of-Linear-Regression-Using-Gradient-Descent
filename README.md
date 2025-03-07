@@ -1,6 +1,6 @@
 # Implementation-of-Linear-Regression-Using-Gradient-Descent
-##NAME:GOPIKRISHNAN M
-##REGNO:212223043001
+## NAME:GOPIKRISHNAN M
+## REGNO:212223043001
 
 ## AIM:
 To write a program to predict the profit of a city using the linear regression model with gradient descent.
@@ -10,10 +10,12 @@ To write a program to predict the profit of a city using the linear regression m
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
+~~~
 1..Import the required library and read the dataframe.
 2.Write a function computeCost to generate the cost function.
 3.Perform iterations og gradient steps with learning rate.
-4.Plot the Cost function using Gradient Descent and generate the required graph. 
+4.Plot the Cost function using Gradient Descent and generate the required graph.
+~~~
 
 
 ## Program:
@@ -54,19 +56,20 @@ print(f"Predicted value: {pre}")
 ```
 
 ## Output:
+
 ## DATA INFORMATION
 
 ![image](https://github.com/user-attachments/assets/db042fa3-359c-4cb0-8bc9-7e18f7c1ef48)
 
-##VALUES OF X
+## VALUES OF X
 
 ![image](https://github.com/user-attachments/assets/fc8417c1-c7df-4f36-b1f8-666d2eaca988)
 
-##VALUES OF X1_SCALED
+## VALUES OF X1_SCALED
 
 ![image](https://github.com/user-attachments/assets/b80a09b9-5ba7-41e3-aa26-df0108a1963b)
 
-##PREDICTED VALUES
+## PREDICTED VALUES
 
 ![image](https://github.com/user-attachments/assets/06de9459-e040-428c-a041-135d52799c92)
 
