@@ -55,15 +55,21 @@ print(f"Predicted value: {pre}")
 
 ## Output:
 ## DATA INFORMATION
+
 ![image](https://github.com/user-attachments/assets/db042fa3-359c-4cb0-8bc9-7e18f7c1ef48)
 
 ##VALUES OF X
+
 ![image](https://github.com/user-attachments/assets/fc8417c1-c7df-4f36-b1f8-666d2eaca988)
 
 ##VALUES OF X1_SCALED
+
 ![image](https://github.com/user-attachments/assets/b80a09b9-5ba7-41e3-aa26-df0108a1963b)
 
 ##PREDICTED VALUES
+
+![image](https://github.com/user-attachments/assets/06de9459-e040-428c-a041-135d52799c92)
+
 
 
 ## Result:
